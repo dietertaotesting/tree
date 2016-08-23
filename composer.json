@@ -1,0 +1,22 @@
+{
+  "name": "oat-sa/tree",
+  "type": "library",
+  "description": "Tree Utilities",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Dieter Raber",
+      "email": "me@taotesting.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.3.0",
+    "symfony/yaml": "2.6.*@dev"
+  },
+  "autoload": {
+    "psr-4": {
+      "Tree\\": ""
+    }
+  }
+}
