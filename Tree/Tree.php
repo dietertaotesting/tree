@@ -17,9 +17,9 @@
  * Copyright (c) 2016 (original work) Open Assessment Technologies SA;
  */
 
-namespace Tree;
+namespace Tree\Tree;
 
-use Tree\TreeFile;
+use Tree\Tree\TreeFile;
 
 
 /**
