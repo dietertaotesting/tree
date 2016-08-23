@@ -17,7 +17,7 @@
  * Copyright (c) 2016 (original work) Open Assessment Technologies SA;
  */
 
-namespace Jig\Tree;
+namespace Tree;
 
 use Symfony\Component\Yaml\Yaml;
 use Symfony\Component\Filesystem\Filesystem;

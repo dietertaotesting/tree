@@ -17,20 +17,20 @@
  * Copyright (c) 2016 (original work) Open Assessment Technologies SA;
  */
 
-namespace Jig\Tree;
+namespace Tree;
 
-use Jig\Tree\TreeFile;
+use Tree\TreeFile;
 
 
 /**
- * TreeAbstract is the abstract base class for all tree models
+ * Tree is the base class for all tree models
  *
  * @author Dieter Raber <dieter@taotesting.com>
  * @package doc-converter
 
  * @license GPL-2.0
  */
-abstract class TreeAbstract
+class Tree
 {
 
     /**
